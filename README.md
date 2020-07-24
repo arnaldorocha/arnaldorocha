@@ -9,7 +9,7 @@
 
 <h4 align="center">
   Hello, I'm Arnaldo! 👋
-</h4>
+</h4> 
 <p align="center">
    Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp; 💼 Government Employee at Detran PR
 </p>
@@ -63,7 +63,6 @@
   </a>
      
    </p>
-  
 <p align="center">
   📚 Computer Engineering <b>Student</b> &nbsp; 
 </p>
