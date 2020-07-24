@@ -3,7 +3,7 @@
   alt="Kalvaitir.com" />
 </p>
 <p align="center">
- Drummer | Computer Engineering Student | FullStack |Git
+ Drummer | Computer Engineering Student | FullStack | Git
 </p>
 
 <h4 align="center">
