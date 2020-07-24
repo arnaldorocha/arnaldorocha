@@ -10,7 +10,7 @@
   Hey, I'm Arnaldo! 👋
 </h4>
 <p align="center">
-   Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp; 💼 Detran PR
+   Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp; 💼 Government Employee at Detran PR
 </p>
 <p align="center">
 <a 
