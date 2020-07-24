@@ -36,7 +36,7 @@
     alt="Facebook"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Facebook-28A745?style=flat-square&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white&link" />
   </a>
   <a
     href="https://www.instagram.com/arnaldorochafilho" 
