@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center">
-  Hey, I'm Arnaldo! 👋
+  Hello, I'm Arnaldo! 👋
 </h4>
 <p align="center">
    Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp; 💼 Government Employee at Detran PR
