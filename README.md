@@ -10,7 +10,7 @@
    alt="WhatsApp"
    target="blank" 
    >  
-  <img srs="https://img.shields.io/badge/-WhatsApp-28A745?style=flat-square&logo=WhatsApp&logoColor=White" />
+  <img srs="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
   </a>
   <a href="mailto:arnaldorochafilho@gmail.com"
      alt="https://mail.google.com"
@@ -22,14 +22,14 @@
      alt="LinkedIn"
      Target="blank"
      >
-    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
   </a>
   <a
      href="https://github.com/arnaldorocha"
      alt="GitHub"
      target="blank"
      >
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat-square&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" />
   </a>
     <a
     href="https://www.facebook.com/supernaldo/" 
