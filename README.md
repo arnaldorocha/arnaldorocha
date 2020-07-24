@@ -1,4 +1,4 @@
-<h4 align="text-left">
+<h4 align="center">
   Hello, I'm Arnaldo! 👋
 </h4> 
 <p align="center">
