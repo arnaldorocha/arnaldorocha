@@ -18,3 +18,5 @@
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 🎯 Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
 </p>
+                                        
+<p align="center">Based on the work of https://github.com/osvaldokalvaitir</p>
