@@ -1,11 +1,11 @@
-<h4 align="center">
+<h4 align="text-left">
   Hello, I'm Arnaldo! 👋
 </h4> 
 <p align="center">
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/image.png" width="500" />
 </p>
 </p>
-<p align="center">
+<p align="text-left">
 <a 
    href="https://web.whatsapp.com/send?phone=+55988297314" 
    alt="WhatsApp"
@@ -56,15 +56,15 @@
      
    </p>
 </p>
-<p align="center">
+<p align="text-left">
  Drummer | Computer Engineering Student | FullStack | Git
-<p align="center">
+<p align="text-left">
 💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at Detran PR
-<p align="center">
-  📚 Computer Engineering <b>Student</b> &nbsp; 
+<p align="text-left">
+📚 Computer Engineering <b>Student</b> &nbsp; 
 </p>
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 🎯 Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
+<p align="text-left">
+🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 🎯 Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
 </p>
                                         
-<p align="center">Based on the work of https://github.com/osvaldokalvaitir</p>
+<p align="text-left">Based on the work of https://github.com/osvaldokalvaitir</p>
