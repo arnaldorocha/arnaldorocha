@@ -16,13 +16,7 @@
   >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-  <a
-    href="mailto:arnaldorochafilho@gmail.com" 
-    alt="Gmail"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Outlook-28A745?style=flat-square&logo=microsoft-outlook&logoColor=white" />
-  </a>
+
   <a
     href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163" 
     alt="LinkedIn"
