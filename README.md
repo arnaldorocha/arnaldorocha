@@ -1,5 +1,6 @@
-
-
+<h4 align="center">
+  Hello, I'm Arnaldo! 👋
+</h4> 
 <p align="center">
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/image.png" width="500" />
 </p>
@@ -55,9 +56,6 @@
      
    </p>
 </p>
-<h4 align="center">
-  Hello, I'm Arnaldo! 👋
-</h4> 
 <p align="center">
  Drummer | Computer Engineering Student | FullStack | Git
 <p align="center">
