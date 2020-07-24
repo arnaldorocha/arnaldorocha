@@ -43,7 +43,7 @@
     alt="Instagram"
     target="blank"
        >
-    <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat-square&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link" />
   </a>
     <a
     href="mailto:arnaldorochafilho@gmail.com" 
