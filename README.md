@@ -10,8 +10,51 @@
   Hey, I'm Arnaldo! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp; 💼 Detran PR
+   Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp; 💼 Detran PR
 </p>
+<p align="center">
+<a 
+   href="https://web.whatsapp.com/send?phone=+55988297314" 
+   alt="WhatsApp"
+   target="blank" 
+   >  
+  <img srs="https://img.shields.io/badge/-WhatsApp-28A745?style=flat-square&logo=WhatsApp&logoColor=White" />
+  </a>
+  <a href="mailto:arnaldorochafilho@gmail.com"
+     alt="https://mail.google.com"
+     target="blank"
+     >
+  </a>
+  <a
+     href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/"
+     alt="LinkedIn"
+     Target="blank"
+     >
+    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a
+     href="https://github.com/arnaldorocha"
+     alt="GitHub"
+     target="blank"
+     >
+    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+    <a
+    href="https://www.facebook.com/supernaldo/" 
+    alt="Facebook"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Facebook-28A745?style=flat-square&logo=Facebook&logoColor=white" />
+  </a>
+  <a
+    href="https://www.instagram.com/arnaldorochafilho" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+  </p>
+  
 <p align="center">
   📚 Computer Engineering <b>Student</b> &nbsp; 
 </p>
