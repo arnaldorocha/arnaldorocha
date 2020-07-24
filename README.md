@@ -53,6 +53,11 @@
   >
     <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
+  <a
+     [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.arezo@gmail.com)](mailto:arnaldorochafilho@gmail.com)
+     ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/13490305/87845761-8fbbe600-c8a0-11ea-9d25-0244f35647f2.gif)
+     >
+  </a>
   </p>
   
 <p align="center">
