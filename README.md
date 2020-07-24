@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/image.png" width="500"
   alt="Kalvaitir.com" />
@@ -50,15 +52,18 @@
     href="https://www.instagram.com/arnaldorochafilho" 
     alt="Instagram"
     target="blank"
-  >
+       >
     <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
-  <a
-     [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.arezo@gmail.com)](mailto:arnaldorochafilho@gmail.com)
-     ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/13490305/87845761-8fbbe600-c8a0-11ea-9d25-0244f35647f2.gif)
-     >
+    <a
+    href="mailto:arnaldorochafilho@gmail.com" 
+    alt="Gmail"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
-  </p>
+     
+   </p>
   
 <p align="center">
   📚 Computer Engineering <b>Student</b> &nbsp; 
