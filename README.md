@@ -18,7 +18,7 @@
   </a>
   <a
     href="mailto:arnaldorochafilho@gmail.com" 
-    alt="Outlook"
+    alt="Gmail"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Outlook-28A745?style=flat-square&logo=microsoft-outlook&logoColor=white" />
