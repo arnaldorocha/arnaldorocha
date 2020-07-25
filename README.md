@@ -5,7 +5,7 @@
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/image.png" width="500" />
 </p>
 </p>
-<p align="text-left">
+<p align="center">
 <a 
    href="https://web.whatsapp.com/send?phone=+55988297314" 
    alt="WhatsApp"
@@ -56,15 +56,15 @@
      
    </p>
 </p>
-<p align="text-left">
+<p align="center">
  Drummer | Computer Engineering Student | FullStack | Git
-<p align="text-left">
+<p align="center">
 💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at Detran PR
-<p align="text-left">
+<p align="center">
 📚 Computer Engineering <b>Student</b> &nbsp; 
 </p>
-<p align="text-left">
-🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 🎯 Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
+<p align="center">
+🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp;  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
 </p>
                                         
-<p align="text-left">Based on the work of https://github.com/osvaldokalvaitir</p>
+<p align="center">Based on the work of https://github.com/osvaldokalvaitir</p>
