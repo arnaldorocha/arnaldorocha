@@ -69,4 +69,6 @@
 <p align="center">
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
    </p>                            
+   
+   
 <p align="center">Based on the work of https://github.com/osvaldokalvaitir</p>
