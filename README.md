@@ -64,7 +64,9 @@
 📚 Computer Engineering <b>Student</b> &nbsp; 
 </p>
 <p align="center">
-🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp;  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
+🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
 </p>
-                                        
+<p align="center">
+ Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
+   </p>                            
 <p align="center">Based on the work of https://github.com/osvaldokalvaitir</p>
