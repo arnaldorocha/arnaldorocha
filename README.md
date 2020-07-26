@@ -11,7 +11,7 @@
    alt="WhatsApp"
    target="blank" 
    >  
-  <img srs="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
+  <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
   </a>
   <a href="mailto:arnaldorochafilho@gmail.com"
      alt="https://mail.google.com"
