@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a 
-   href="https://web.whatsapp.com/send?phone=55988297314" 
+   href="http://api.whatsapp.com/send?1=pt_BR&phone=55988297314" 
    alt="WhatsApp"
    target="blank" 
    >  
