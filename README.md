@@ -71,8 +71,7 @@
    </p>        
   <p
   <p align="center">
-  <b>Here's some stuff about me:</b> I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married.
- <img src= "https://i.imgur.com/WfwElXj.gifv"  width="500" />
+  <b>Here's some stuff about me:</b> I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology.
   </p>
   <p>*
   </p>
