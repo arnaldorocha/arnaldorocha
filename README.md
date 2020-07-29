@@ -71,8 +71,11 @@
    </p>        
   <p
   <p align="center">
-  <b>Here's some stuff about me:</b> I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology.
+  <b>Here's some stuff about me:</b> 
   </p>
+  <p
+  <p align="center">
+  I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology .
   <p>*
   </p>
    
