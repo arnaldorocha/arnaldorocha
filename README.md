@@ -68,8 +68,11 @@
 </p>
 <p align="center">
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
-   </p>                            
+   </p>        
   <p
+  <p align="center">
+  <b>Here's some stuff about me:</b> I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married.
+ <img src=https://external-preview.redd.it/HM7qlkiLNx0XtDUAUb0ic-KTaXB9DJaOQHGL4v7wVBc.gif?format=mp4&s=a54ccb140c442d39166e0ac67dcaa3b9bf4b7f56  width="500" />
   </p>
   <p>*
   </p>
