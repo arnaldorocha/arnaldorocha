@@ -59,7 +59,7 @@
 <p align="center">
  Drummer | Computer Engineering Student | FullStack | Git
 <p align="center">
-💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at Detran PR
+💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at <b> Detran PR </b>
 <p align="center">
 📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
 </p>
