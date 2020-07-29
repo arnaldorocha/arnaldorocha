@@ -68,6 +68,10 @@
 </p>
 <p align="center">
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
+   </p>  
+   </p>
+<p align="center">
+__________________________________________________________________
    </p>        
   <p
   <p align="center">
