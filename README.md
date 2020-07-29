@@ -61,7 +61,7 @@
 <p align="center">
 💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at Detran PR
 <p align="center">
-📚 Computer Engineering <b>Student</b> &nbsp; 
+📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
 </p>
 <p align="center">
 🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
