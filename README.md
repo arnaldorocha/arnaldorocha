@@ -1,5 +1,5 @@
 <h4 align="center">
-  Hello, I'm Arnaldo! ✌️
+  Hello! I'm Arnaldo ✌️
 </h4> 
 <p align="center">
   <img src="https://felipediaspires.files.wordpress.com/2016/06/dormrm.gif?w=598" width="500" />
