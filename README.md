@@ -1,10 +1,3 @@
-<html>
-   <head>
-      <title>Arnaldo Rocha Filho</title>
-      <meta name="description" content="Conheça sobre o Arnaldo Rocha Filho">
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-   </head>
-<body>
 ﻿<h4 align="center">
   Hello! I'm Arnaldo 
 </h4> 
