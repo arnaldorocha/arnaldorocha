@@ -1,11 +1,18 @@
-<h4 align="center">
-  Hello! I'm Arnaldo ✌️
+<html>
+   <head>
+      <title>Arnaldo Rocha Filho</title>
+      <meta name="description" content="Conheça sobre o Arnaldo Rocha Filho">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   </head>
+<body>
+﻿<h4 align="center">
+  Hello! I'm Arnaldo 
 </h4> 
-<p align="center">
-  <img src="https://felipediaspires.files.wordpress.com/2016/06/dormrm.gif?w=598" width="500" />
+<div>
+<p align="left">
+<img src="http:///arnaldorochafilho.atwebpages.com/img/download.png" width="200" border="1" align="left" border="1"/>
 </p>
-</p>
-<p align="center">
+<p align="">
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -53,34 +60,29 @@
   >
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
-     
-   </p>
-</p>
-<p align="center">
+<p align="">
  Drummer | Computer Engineering Student | FullStack | Git
-<p align="center">
-💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at <b> Detran PR </b>
-<p align="center">
-📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
+<p align="">
+ Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at <b> Detran PR </b>
+<p align="">
+ Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
 </p>
-<p align="center">
-🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
+<p align="">
+ Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
 </p>
-<p align="center">
+<p align="">
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
-   </p>  
-   </p>
-<p align="center">
-__________________________________________________________________
-   </p>        
-  <p
-  <p align="center">
+   </p>   
+ <p align="">
+   _________________________________________________________________
+     </p>
+  <p align="">
   <b>Here's some stuff about me:</b> 
   </p>
   <p
-  <p align="center">
+  <p align="">
   I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology .
-  <p>*
-  </p>
-   
-<p align="text-left">Based on the work of https://github.com/osvaldokalvaitir</p>
+   </p>
+</div>
+</body>
+</html>
