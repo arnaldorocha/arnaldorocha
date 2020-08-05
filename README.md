@@ -84,4 +84,4 @@ __________________________________________________________________
   <p>*
   </p>
    
-<p align="text-left">Based on the work of https://github.com/osvaldokalvaitir</p>
+
