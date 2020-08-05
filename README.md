@@ -2,11 +2,11 @@
 <p align="left">
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/opa.jpg" width="250" height="500" align="right" />
 </p>
-  <h4 align="center">
+  <h4 align="left">
   Hey there!!! ✌️
     </h4>
 </p>
-<p align="center">
+<p align="left">
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -57,17 +57,15 @@
      
    </p>
 </p>
-<p align="center">
- Drummer | Computer Engineering Student | FullStack | Git
-<p align="center">
+<p align="left">
 💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at <b> Detran PR </b>
-<p align="center">
+<p align="left">
 📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
 </p>
-<p align="center">
+<p align="left">
 🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
 </p>
-<p align="center">
+<p align="left">
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
    </p>  
    </p>
@@ -75,12 +73,12 @@
 __________________________________________________________________
    </p>        
   <p
-  <p align="center">
+  <p align="left">
   <b>Here's some stuff about me:</b> 
   </p>
   <p
-  <p align="center">
-  I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology .
+  <p align="left">
+  I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology ; I'm graduating with a degree in engineering.
   
    
 
