@@ -1,8 +1,6 @@
-<h4 align="center">
-  Hello! I'm Arnaldo ✌️
 </h4> 
-<p align="center">
-  <img src="https://felipediaspires.files.wordpress.com/2016/06/dormrm.gif?w=598" width="500" />
+<p align="left">
+  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/opa.jpg" width="500" align="left" />
 </p>
 </p>
 <p align="center">
@@ -13,6 +11,9 @@
    >  
   <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
   </a>
+  <h4 align="center">
+  Hello! I'm Arnaldo ✌️
+    </h4>
   <a href="mailto:arnaldorochafilho@gmail.com"
      alt="https://mail.google.com"
      target="blank"
