@@ -1,6 +1,6 @@
 </h4> 
 <p align="left">
-  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/opa.jpg" width="250" height="500" align="right" />
+  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/opa.jpg" width="200"  align="right" />
 </p>
   <h4 align="left">
   Hey there!!! ✌️
