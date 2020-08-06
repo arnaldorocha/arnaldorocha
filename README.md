@@ -1,12 +1,12 @@
 </h4> 
-<p align="left">
+<p>
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="200"  align="right" />
 </p>
-  <h4 align="left">
+  <h4>
   Hey there!!! ✌️
     </h4>
 </p>
-<p align="left">
+<p>
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -57,27 +57,27 @@
      
    </p>
 </p>
-<p align="left">
+<p>
 💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at <b> Detran PR </b>
-<p align="left">
+<p>
 📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
 </p>
-<p align="left">
+<p>
 🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
 </p>
-<p align="left">
+<p>
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
    </p>  
    </p>
-<p align="center">
+<p>
 __________________________________________________________________
    </p>        
   <p
-  <p align="left">
+  <p>
   <b>Here's some stuff about me:</b> 
   </p>
   <p
-  <p align="left">
+  <p>
   I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology ; I'm graduating with a degree in engineering.
   
    
