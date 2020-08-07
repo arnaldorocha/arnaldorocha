@@ -63,7 +63,7 @@
 📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
 </p>
 <p>
-🚀 Full Stack Student at <b>Digital Innovation One </b> &nbsp; 
+🚀 Full Stack Student at <b>Digital Innovation One and Rocketseat </b> &nbsp; 
 </p>
 <p>
  Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
