@@ -78,7 +78,7 @@ __________________________________________________________________
   </p>
   <p
   <p>
-  I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology ; I'm graduating with a degree in engineering.
+  I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology ; I'm graduating with a degree in computer engineering.
   
    
 
