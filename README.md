@@ -55,7 +55,7 @@
   </a>
      
 <p>
- I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside in the interior of the same state in Brazil, married and have no son. I attend the Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek culture mixed with medieval history.
+ I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside in the country of the same state in Brazil, married and have no son. I attend the Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek culture mixed with medieval history.
  <br><br>
 In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, I am at degree computer engineering student , currently focusing on fullstack web and mobile development.
  <br>
