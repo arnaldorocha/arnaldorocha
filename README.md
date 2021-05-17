@@ -2,9 +2,9 @@
 <p>
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="200"  align="right" />
 </p>
-  <h4>
+  <h2>
   Hey there!!! ✌️
-    </h4>
+    </h2>
 </p>
 <p>
 <a 
@@ -55,30 +55,16 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
      
-   </p>
+<p>
+ I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside in the interior of the same state in Brazil, married and have no son. I attend the Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek culture mixed with medieval history.
+ <br><br>
+In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, I am at degree computer engineering student , currently focusing on fullstack web and mobile development.
+ <br>
+______________________________________________________________
+ <br>
+The tools I am studying and practicing.<br>
+VSCode - Git/GitHub - HTML - CSS - JavaScript - Node.Js - C/C++
+
 </p>
-<p>
-💼 Living in <b>São Mateus do Sul</b>, <b>Paraná</b>, <b>Brazil</b> &nbsp;  Government Employee at <b> Detran PR </b>
-<p>
-📚 Computer Engineering Student at <b>International University Center UNINTER</b> &nbsp; 
-</p>
-<p>
-🚀 Full Stack Student &nbsp; 
-</p>
-<p>
- Focused in <b>Full Stack Developer</b>, <b>Mobile</b> and <b>Web</b>
-   </p>  
-   </p>
-<p>
-__________________________________________________________________
-   </p>        
-  <p
-  <p>
-  <b>Here's some stuff about me:</b> 
-  </p>
-  <p
-  <p>
-  I often read manga; I like to play on the computer; I enjoy the superhero movies; I'm a drummer;  I'm married; I love technology ; I'm graduating with a degree in computer engineering.
-  
    
 
