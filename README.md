@@ -1,11 +1,10 @@
-</h4> 
+
 <p>
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="200"  align="right" />
 </p>
   <h2>
   Hey there!!! ✌️
     </h2>
-</p>
 <p>
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
@@ -67,4 +66,5 @@ VSCode - Git/GitHub - HTML - CSS - JavaScript - Node.Js - C/C++
 
 </p>
    
+   </p>
 
