@@ -1,6 +1,6 @@
 
 <p>
-  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="200"  align="right" />
+  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50"  align="right" />
 </p>
   <h2>
   Hey there! ✌️
