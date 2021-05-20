@@ -61,9 +61,10 @@ In professional terms. Currently working at Detran-PR and looking for opportunit
  <br>
 ______________________________________________________________
  <br>
+  <b>
 The tools I am studying and practicing.<br>
 VSCode - Git/GitHub - HTML - CSS - JavaScript - Node.Js - C/C++
-
+  </b>
 </p>
    
    </p>
