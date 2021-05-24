@@ -1,11 +1,7 @@
 
-<p>
-  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50"  align="right" />
-</p>
-  <h1>
-   Hey there! ✌️<br>
-    </h1>
-<p align="left">
+<h3 align="center">Hey There! </h3>
+
+<p align="center">
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -56,20 +52,21 @@
  </p>
  
  
-<pre>
+<p align="center" >
  I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside
  in the countryside of the same state in Brazil, married and have no son. I attend the
  Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek 
  culture mixed with medieval history.
- </pre><p>
-In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, <b>I'm computer engineering student</b>, currently focusing on <b>fullstack web and mobile development.</b></p>
+ 
+In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, <b>I'm computer engineering student</b>, currently focusing on <b>fullstack web and mobile development.</b>
+ </p>
  
 <h2>
 </h2>
 
-  <h3>The tools I am studying and practicing.</h3>  
+  <h3 align="center">The tools I am studying and practicing.</h3>  
     
-  <p>    
+  <p align="center">    
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
@@ -85,8 +82,12 @@ In professional terms. Currently working at Detran-PR and looking for opportunit
 <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="20" >   
 &nbsp&nbsp      
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
-    
+  <br><br>
+  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
+  
 </p>
    
+  
+ 
 
 
