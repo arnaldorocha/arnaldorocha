@@ -61,10 +61,11 @@ In professional terms. Currently working at Detran-PR and looking for opportunit
  <br>
 ______________________________________________________________
  <br>
-  <h3>
   <b>
 The tools I am studying and practicing.<br>
   </h3>
+      </b>
+      
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
@@ -80,8 +81,8 @@ The tools I am studying and practicing.<br>
 <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="20" >   
 &nbsp&nbsp      
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
-  </b>
-   
+    <h3>
+
 </p>
    
    </p>
