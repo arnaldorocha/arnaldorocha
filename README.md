@@ -65,21 +65,21 @@ ______________________________________________________________
   <b>
 The tools I am studying and practicing.<br>
   </h3>
-<img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="30" > 
+<img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" > 
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
 &nbsp&nbsp      
-<img src="https://icons-for-free.com/iconfiles/png/512/github+logo+icon-1320193261904451658.png" width="30" >
+<img src="https://icons-for-free.com/iconfiles/png/512/github+logo+icon-1320193261904451658.png" width="20" >
 &nbsp&nbsp    
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25" >
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="15" >
 &nbsp&nbsp      
-<img src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" width="25" >  
+<img src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" width="15" >  
 &nbsp&nbsp  
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="25" >   
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="15" >   
 &nbsp&nbsp  
-<img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="30" >   
+<img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="20" >   
 &nbsp&nbsp      
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30" >  
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
   </b>
    
 </p>
