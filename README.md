@@ -2,10 +2,10 @@
 <p>
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50"  align="right" />
 </p>
-  <h2>
-  Hey there! ✌️
+  <h2 align="center">
+ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Hey there! ✌️
     </h2>
-<p>
+<p align="center">
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -62,9 +62,9 @@ In professional terms. Currently working at Detran-PR and looking for opportunit
 <h2>
 </h2>
 
-  <h3>The tools I am studying and practicing.</h3>  
+  <h3 align="center">The tools I am studying and practicing.</h3>  
     
-  <p>    
+  <p align="center">    
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
