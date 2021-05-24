@@ -2,10 +2,10 @@
 <p>
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50"  align="right" />
 </p>
-  <h1 align="center">
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Hey there! ✌️<br>
+  <h1>
+   Hey there! ✌️<br>
     </h1>
-<p align="center">
+<p align="left">
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -53,18 +53,23 @@
   >
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
-     
-<p>
- I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside in the countryside of the same state in Brazil, married and have no son. I attend the Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek culture mixed with medieval history.
- <br><br>
-In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, <b>I'm computer engineering student</b>, currently focusing on <b>fullstack web and mobile development.</b>
+ </p>
+ 
+ 
+<pre>
+ I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside
+ in the countryside of the same state in Brazil, married and have no son. I attend the
+ Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek 
+ culture mixed with medieval history.
+ </pre><p>
+In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, <b>I'm computer engineering student</b>, currently focusing on <b>fullstack web and mobile development.</b></p>
  
 <h2>
 </h2>
 
-  <h3 align="center">The tools I am studying and practicing.</h3>  
+  <h3>The tools I am studying and practicing.</h3>  
     
-  <p align="center">    
+  <p>    
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
