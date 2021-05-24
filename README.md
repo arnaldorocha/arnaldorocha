@@ -3,7 +3,7 @@
   <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50"  align="right" />
 </p>
   <h1 align="center">
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Hey there! ✌️<br><br>
+ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Hey there! ✌️<br>
     </h1>
 <p align="center">
 <a 
