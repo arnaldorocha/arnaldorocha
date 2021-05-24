@@ -61,10 +61,27 @@ In professional terms. Currently working at Detran-PR and looking for opportunit
  <br>
 ______________________________________________________________
  <br>
+  <h3>
   <b>
 The tools I am studying and practicing.<br>
-VSCode - Git/GitHub - HTML - CSS - JavaScript - Node.Js - C/C++
+  </h3>
+<img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="30" > 
+&nbsp&nbsp  
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" > 
+&nbsp&nbsp      
+<img src="https://icons-for-free.com/iconfiles/png/512/github+logo+icon-1320193261904451658.png" width="30" >
+&nbsp&nbsp    
+<img src="https://image.flaticon.com/icons/png/512/919/919827.png" width="30" >
+&nbsp&nbsp      
+<img src="https://pt.seaicons.com/wp-content/uploads/2015/11/css-3-icon.png" width="30" >  
+&nbsp&nbsp  
+<img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="30" >   
+&nbsp&nbsp  
+<img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="30" >   
+&nbsp&nbsp      
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30" >  
   </b>
+   
 </p>
    
    </p>
