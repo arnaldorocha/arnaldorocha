@@ -71,11 +71,11 @@ The tools I am studying and practicing.<br>
 &nbsp&nbsp      
 <img src="https://icons-for-free.com/iconfiles/png/512/github+logo+icon-1320193261904451658.png" width="30" >
 &nbsp&nbsp    
-<img src="https://image.flaticon.com/icons/png/512/919/919827.png" width="30" >
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="25" >
 &nbsp&nbsp      
-<img src="https://pt.seaicons.com/wp-content/uploads/2015/11/css-3-icon.png" width="30" >  
+<img src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" width="25" >  
 &nbsp&nbsp  
-<img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="30" >   
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="25" >   
 &nbsp&nbsp  
 <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="30" >   
 &nbsp&nbsp      
