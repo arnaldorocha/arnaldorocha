@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey There! ✌ </h2>
+  <h2 align="center">Hey There! ✌ </h2>
 
 <p align="center">
 <a 
@@ -50,23 +50,22 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
  </p>
+ <br>
  
- 
-<p align="center" >
+<p>
  I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside
  in the countryside of the same state in Brazil, married and have no son. I attend the
- Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek 
- culture mixed with medieval history.
- 
-In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, <b>I'm computer engineering student</b>, currently focusing on <b>fullstack web and mobile development.</b>
- </p>
+ Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geekculture mixed with medieval history.
+ <br><br>
+ In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer, <b>I'm computer engineering student</b>, currently focusing on <b>fullstack web and mobile development.</b>
+</p>
  
 <h2>
 </h2>
 
   <h3 align="center">The tools I am studying and practicing.</h3>  
     
-  <p align="center">    
+<p align="center">    
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
@@ -83,9 +82,9 @@ In professional terms. Currently working at Detran-PR and looking for opportunit
 &nbsp&nbsp      
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
   <br><br>
-  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
+<img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
+   
   
-</p>
    
   
  
