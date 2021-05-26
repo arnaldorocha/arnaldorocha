@@ -88,8 +88,8 @@
 <center>
   <table>
     <tr>
-      <td><img height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&show_icons=true&count_private=true" /></td>
-        <td><img width="530px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8" /></td>        
+      <td><img height="235px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&show_icons=true&count_private=true" /></td>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8" /></td>        
     </tr>   
   </table>
 </center>
