@@ -85,10 +85,6 @@
 <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
    
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaldorocha)](https://github.com/arnaldorocha/github-readme-stats)
-
-   
-  
- 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&layout=compact)](https://github.com/arnaldorocha/github-readme-stats)
+  [![Arnaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaldorocha)](https://github.com/arnaldorocha/github-readme-stats)
 
