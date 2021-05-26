@@ -83,8 +83,14 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
   <br><br>
 <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
-   
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&layout=compact)](https://github.com/arnaldorocha/github-readme-stats)
-  [![Arnaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaldorocha)](https://github.com/arnaldorocha/github-readme-stats)
+  </p>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
 
