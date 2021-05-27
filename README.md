@@ -3,10 +3,10 @@
  <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
  </p>
  
-   <h2 align="center">Hey There! ✌ </h2>
+   <h2 align="left">Hey There! ✌ </h2>
 
 
-<p align="center">
+<p align="left">
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
@@ -67,9 +67,9 @@
 <h2>
 </h2>
 
-  <h3 align="center">The tools I am studying and practicing.</h3>  
+  <h3 align="left">The tools I am studying and practicing.</h3>  
     
-<p align="center">    
+<p align="left">    
 <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" > 
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
