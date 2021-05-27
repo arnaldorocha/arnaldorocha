@@ -1,5 +1,7 @@
 
-  <h2 align="center">Hey There! ✌ </h2>
+ <p align="center">
+ <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
+ </p>
 
 <p align="center">
 <a 
@@ -50,9 +52,8 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
  </p>
- <p align="center">
- <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
- </p>
+   <h2 align="center">Hey There! ✌ </h2>
+
   
 <p>
  I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside
