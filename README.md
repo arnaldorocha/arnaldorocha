@@ -50,8 +50,10 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
  </p>
- <br>
- 
+ <p align="center">
+ <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
+ </p>
+  
 <p>
  I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside
  in the countryside of the same state in Brazil, married and have no son. I attend the
@@ -82,7 +84,6 @@
 &nbsp&nbsp      
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
   <br><br>
-<img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
   </p>
 
 <center>
