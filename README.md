@@ -1,7 +1,4 @@
 
- <p align="center">
- <img src="https://github.com/arnaldorocha/arnaldorocha/blob/master/.github/assets/Sem%20t%C3%ADtulo2.png" width="50">
- </p>
  
    <h2 align="left">Hey There! ✌ </h2>
 
