@@ -71,7 +71,7 @@
 &nbsp&nbsp  
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" > 
 &nbsp&nbsp      
-<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" >
+<img src="https://www.freeiconspng.com/uploads/git-github-hub-icon-25.png" width="20" >
 &nbsp&nbsp    
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="15" >
 &nbsp&nbsp      
