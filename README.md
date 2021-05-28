@@ -84,7 +84,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
   <br><br>
   </p>
-
+<center>
 <a>
       <img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" />
 </a>
@@ -92,5 +92,5 @@
 <a>
         <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515"    
 </a>
-
+</center>
 
