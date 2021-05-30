@@ -7,54 +7,54 @@
 <a 
    href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" 
    alt="WhatsApp"
-   target="blank" 
+   target="_blank" 
    >  
   <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
   </a>
   <a href="mailto:arnaldorochafilho@gmail.com"
      alt="https://mail.google.com"
-     target="blank"
+     target="_blank"
      >
   </a>
   <a
      href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/"
      alt="LinkedIn"
-     Target="blank"
+     Target="_blank"
      >
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
   </a>
   <a
      href="https://github.com/arnaldorocha"
      alt="GitHub"
-     target="blank"
+     target="_blank"
      >
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" />
   </a>
     <a
     href="https://www.facebook.com/supernaldo/" 
     alt="Facebook"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white&link" />
   </a>
   <a
     href="https://www.instagram.com/arnaldorochafilho" 
     alt="Instagram"
-    target="blank"
+    target="_blank"
        >
     <img src="https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link" />
   </a>
     <a
     href="mailto:arnaldorochafilho@gmail.com" 
     alt="Gmail"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
    <a
     href="https://arnaldorocha.github.io/portfolio/" 
     alt="Portfolio"
-    target="blank"
+    target="_blank"
        >
     <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" />
   </a>
