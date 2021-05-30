@@ -51,6 +51,13 @@
   >
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
+   <a
+    href="https://arnaldorocha.github.io/portfolio/" 
+    alt="Portfolio"
+    target="blank"
+       >
+    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" />
+  </a>
  </p>
   
 <p>
