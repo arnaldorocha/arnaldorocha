@@ -51,13 +51,7 @@
   >
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
   </a>
-   <a
-    href="https://arnaldorocha.github.io/portfolio/" 
-    alt="Portfolio"
-    target="_blank"
-       >
-    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" />
-  </a>
+ 
  </p>
   
 <p>
@@ -65,7 +59,14 @@
  in the countryside of the same state in Brazil, married and have no son. I attend the
  Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek culture mixed with medieval history.
  <br><br>
- In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer.<br> <li><b>I'm computer engineering student</b> <br><li>Currently focusing on <b>fullstack web and mobile development.</b>
+ In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer.<br> <li><b>I'm computer engineering student</b> <br><li>Currently focusing on <b>fullstack web and mobile development.   
+ <a
+    href="https://arnaldorocha.github.io/portfolio/" 
+    alt="Portfolio"
+    target="_blank"
+       >
+    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" />
+  </a></b>
 </p>
  
 <h2>
