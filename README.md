@@ -1,6 +1,12 @@
-
- 
-   <h2 align="left">Hey There! ✌ </h2>
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arnaldorochad&repo=arnaldorocha&countColorcountColor)   <a
+    href="https://arnaldorocha.github.io/portfolio/" 
+    alt="Portfolio"
+    target="_blank"
+       >
+    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link"  width="75"/>
+  </a>
+  
+   <h2 align="left">Hey There! ✌ </h2> 
 
 
 <p align="left">
@@ -62,13 +68,7 @@
  In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer.<br> <li><b>I'm computer engineering student</b> <br><li>Currently focusing on <b>fullstack web and mobile development.</b>
 </p>
  
-  <a
-    href="https://arnaldorocha.github.io/portfolio/" 
-    alt="Portfolio"
-    target="_blank"
-       >
-    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" />
-  </a>
+
  
 <h2>
 </h2>
