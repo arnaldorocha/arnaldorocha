@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arnaldorochad&repo=arnaldorocha&countColorcountColor)   <a
+  <a
     href="https://arnaldorocha.github.io/portfolio/" 
     alt="Portfolio"
     target="_blank"
