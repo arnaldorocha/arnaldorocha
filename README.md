@@ -3,7 +3,7 @@
     alt="Portfolio"
     target="_blank"
        >
-    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link"  width="75"/>
+    <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link"  width="75" align="right"/>
   </a>
   
    <h2 align="left">Hey There! ✌ </h2> 
