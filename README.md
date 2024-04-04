@@ -84,11 +84,11 @@
 &nbsp&nbsp    
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="15" >
 &nbsp&nbsp      
-<img src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" width="15" >  
+<img src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="15" >  
 &nbsp&nbsp  
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="15" >   
 &nbsp&nbsp  
-<img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="20" >   
+<img src="https://image.flaticon.com/icons/png/512/919/919825.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0buVZikwQdH17equTo0-26slJdRokdYIEK-iOQ1EYw&s" width="20" >   
 &nbsp&nbsp      
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" >  
   <br><br>
