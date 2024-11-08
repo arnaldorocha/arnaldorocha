@@ -61,11 +61,13 @@
  </p>
   
 <p>
- I am Arnaldo Rocha Filho, born in Paranaguá on the coast of Paraná and currently reside
- in the countryside of the same state in Brazil, married and have no son. I attend the
- Foursquare Evangelical Church and am a drummer, I like to read and watch things related to Geek culture mixed with medieval history.
+Aspiring Machine Learning Engineer with a background in Computer Engineering, specializing in Python and AI, and actively seeking opportunities to apply and expand my skills in Data Science and Machine Learning. I am passionate about tech innovation and the potential of data science to drive impactful solutions.
+
+A dedicated learner and knowledge-sharer, I bring an analytical and creative mindset, aiming to merge technical expertise with practical insights for solving real-world challenges. As a tech enthusiast with a deep interest in geek culture—especially manhua, manga, and manhwa—I draw creative inspiration from these areas.
+
+I believe in balancing professional growth with family values and faith, which ground and motivate me as I pursue my goals in tech and innovation.
  <br><br>
- In professional terms. Currently working at Detran-PR and looking for opportunities as a software developer.<br> <li><b>I'm computer engineering student</b> <br><li>Currently focusing on <b>fullstack web and mobile development.</b>
+ <li><b>I'm computer engineering student</b> <br><li>Currently focusing on <b>Python and AI.</b>
 </p>
  
 
