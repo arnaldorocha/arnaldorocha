@@ -100,7 +100,7 @@ I believe in balancing professional growth with family values and faith, which g
   <table>
     <tr>
       <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" /></td>        
+        <td><img width="400px" align="left" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" /></td>        
     </tr>   
   </table>
 </center>
