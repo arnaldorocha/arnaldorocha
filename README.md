@@ -86,7 +86,7 @@ I believe in balancing professional growth with family values and faith, which g
 &nbsp&nbsp    
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="15" >
 &nbsp&nbsp      
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="20" >  
+<img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20" >  
 &nbsp&nbsp  
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="15" >   
 &nbsp&nbsp  
@@ -100,7 +100,7 @@ I believe in balancing professional growth with family values and faith, which g
   <table>
     <tr>
       <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" /></td>
-        <td><img width="400px" align="left" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" /></td>        
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" /></td>        
     </tr>   
   </table>
 </center>
