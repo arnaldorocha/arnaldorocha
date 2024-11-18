@@ -69,9 +69,6 @@
   <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
   </a>
-  <a href="https://github.com/arnaldorocha" alt="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" />
-  </a>
   <a href="https://www.facebook.com/supernaldo/" alt="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white&link" />
   </a>
