@@ -60,7 +60,7 @@
 
 <h3 align="center">📞 Contact Me:</h3>
 <p align="center">
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" alt="WhatsApp" target="_blank">  
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988698860" alt="WhatsApp" target="_blank">  
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
   </a>
   <a href="mailto:arnaldorochafilho@gmail.com" alt="Gmail" target="_blank">
