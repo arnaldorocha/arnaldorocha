@@ -1,3 +1,4 @@
+
 <a href="https://arnaldorocha.github.io/portfolio/" alt="Portfolio" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" 
        width="75" 
@@ -5,27 +6,6 @@
 </a>
 
 <h2 align="left">Hey There! ✌</h2>
-
-<p align="left">
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" alt="WhatsApp" target="_blank">  
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
-  </a>
-  <a href="mailto:arnaldorochafilho@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
-  </a>
-  <a href="https://github.com/arnaldorocha" alt="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" />
-  </a>
-  <a href="https://www.facebook.com/supernaldo/" alt="Facebook" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white&link" />
-  </a>
-  <a href="https://www.instagram.com/arnaldorochafilho" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link" />
-  </a>
-</p>
 
 <p>
    I’m currently on an exciting journey into the world of technology. I’m transitioning from my previous career into the tech industry, with a focus on <b>Python</b> and <b>Artificial Intelligence</b>. 
@@ -75,3 +55,27 @@
     </tr>   
   </table>
 </center>
+
+<hr>
+
+<h3 align="center">📞 Contact Me:</h3>
+<p align="center">
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988297314" alt="WhatsApp" target="_blank">  
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
+  </a>
+  <a href="mailto:arnaldorochafilho@gmail.com" alt="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
+  </a>
+  <a href="https://github.com/arnaldorocha" alt="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" />
+  </a>
+  <a href="https://www.facebook.com/supernaldo/" alt="Facebook" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white&link" />
+  </a>
+  <a href="https://www.instagram.com/arnaldorochafilho" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link" />
+  </a>
+</p>
