@@ -24,19 +24,17 @@
 
 <h3 align="left">🔧 Tools and Technologies I’m Learning:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="20" />
+  <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="50" />
   &nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" />
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="35" />
   &nbsp;
-  <img src="https://www.freeiconspng.com/uploads/git-github-hub-icon-25.png" width="20" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="55" />
   &nbsp;
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="15" />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="35" />
   &nbsp;
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="40" />
   &nbsp;
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="15" />
-  &nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="20" />
+  <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="30" />
 </p>
 
 <h3 align="left">📊 Follow My Progress:</h3>
