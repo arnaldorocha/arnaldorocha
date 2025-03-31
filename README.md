@@ -18,7 +18,7 @@
 
 <h3 align="left">📚 Current Focus:</h3>
 <ul>
-  <li>🎓 Pursuing a <b>Computer Engineering</b> degree while diving into <b>Python</b> and <b>AI</b> learning.</li>
+  <li>🎓 Pursuing a <b>Computer Engineering</b> degree while diving into <b>Python</b>  learning.</li>
   <li>🛠️ Exploring and building skills in <b>Machine Learning</b> and <b>Data Science</b>.</li>
 </ul>
 
