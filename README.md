@@ -8,7 +8,7 @@
 <h2 align="left">Hey There! ✌</h2>
 
 <p>
-   I’m currently on an exciting journey into the world of technology. I’m transitioning from my previous career into the tech industry, with a focus on <b>Python</b> and <b>Artificial Intelligence</b>. 
+   I’m currently on an exciting journey into the world of technology. I’m transitioning from my previous career into the tech industry, with a focus on <b>Python</b>. 
   <br><br>
   Though I'm still in the process of learning, I am deeply passionate about how technology is reshaping the world, especially in areas like <b>Data Science</b> and <b>Machine Learning</b>. My goal is to contribute to this growing field, and I invite you to follow along as I grow and learn more about the amazing possibilities that technology offers.
   <br>
