@@ -22,11 +22,13 @@
   I also value a balance between personal growth, family, and faith, and I'm committed to growing professionally while sharing my experiences to inspire and help others.
 </p>
 
-<!-- CURRENT FOCUS -->
-<h3 align="left">📚 Current Focus:</h3>
+<h3 align="left">📚 What I'm Doing Now:</h3>
 <ul>
-  <li>🎓 Actively pursuing a <strong>Computer Engineering</strong> degree while refining my practical <strong>Python</strong> skills through daily challenges and projects.</li>
-  <li>🛠️ Continuously building real experience in <strong>Machine Learning</strong> and <strong>Data Science</strong> through applied learning and personal projects.</li>
+  <li>🎓 Currently pursuing a degree in <strong>Computer Engineering</strong>.</li>
+  <li>🐍 Focusing intensely on mastering <strong>Python</strong> through projects, challenges, and practical applications.</li>
+  <li>🛠️ While working with Python, I'm also consistently using <strong>SQL</strong>, <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>Git</strong>, <strong>GitHub</strong>, and <strong>VS Code</strong>.</li>
+  <li>🤖 Deeply interested in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Automation</strong>.</li>
+  <li>🎮 In my free time, I enjoy playing games as a hobby.</li>
 </ul>
 
 <!-- TOOLS & TECHNOLOGIES -->
