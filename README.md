@@ -1,28 +1,36 @@
-
+<!-- PORTFOLIO BADGE -->
 <a href="https://arnaldorocha.github.io/portfolio/" alt="Portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" 
-       width="75" 
-       align="right" />
+  <img 
+    src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" 
+    width="75" 
+    align="right" 
+  />
 </a>
 
+<!-- INTRO -->
 <h2 align="left">Hey There! ✌</h2>
 
 <p>
-   I’m currently on an exciting journey into the world of technology. I’m transitioning from my previous career into the tech industry, with a focus on <b>Python</b>. 
+  I'm on a passionate journey of growth and transformation in the tech world.
   <br><br>
-  Though I'm still in the process of learning, I am deeply passionate about how technology is reshaping the world, especially in areas like <b>Data Science</b> and <b>Machine Learning</b>. My goal is to contribute to this growing field, and I invite you to follow along as I grow and learn more about the amazing possibilities that technology offers.
-  <br>
-  <br>
-  I believe in balancing personal growth with family values and faith, and I'm excited about the opportunity to grow professionally and share my journey with others.
+  Transitioning from my previous career, I am <strong>actively practicing and honing my skills</strong> in <strong>Python</strong> and related technologies every day.
+  I believe that true mastery comes from consistent practice, real-world application, and continuous refinement—not just theoretical study.
+  <br><br>
+  I’m especially fascinated by how technology drives change in fields like <strong>Data Science</strong> and <strong>Machine Learning</strong>.
+  My goal is to make meaningful contributions in these areas, improving a little more with every project, challenge, and exploration.
+  <br><br>
+  I also value a balance between personal growth, family, and faith, and I'm committed to growing professionally while sharing my experiences to inspire and help others.
 </p>
 
+<!-- CURRENT FOCUS -->
 <h3 align="left">📚 Current Focus:</h3>
 <ul>
-  <li>🎓 Pursuing a <b>Computer Engineering</b> degree while diving into <b>Python</b>  learning.</li>
-  <li>🛠️ Exploring and building skills in <b>Machine Learning</b> and <b>Data Science</b>.</li>
+  <li>🎓 Actively pursuing a <strong>Computer Engineering</strong> degree while refining my practical <strong>Python</strong> skills through daily challenges and projects.</li>
+  <li>🛠️ Continuously building real experience in <strong>Machine Learning</strong> and <strong>Data Science</strong> through applied learning and personal projects.</li>
 </ul>
 
-<h3 align="left">🔧 Tools and Technologies I’m Learning:</h3>
+<!-- TOOLS & TECHNOLOGIES -->
+<h3 align="left">🔧 Tools and Technologies I'm Practicing:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="50" />
   &nbsp;
@@ -37,18 +45,24 @@
   <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="30" />
 </p>
 
+<!-- GITHUB STATS -->
 <h3 align="left">📊 Follow My Progress:</h3>
 <center>
   <table>
     <tr>
       <td>
-        <img width="475px" align="left" 
-             src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" 
-             style="max-width:100%;" />
+        <img 
+          width="475px" 
+          align="left" 
+          src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
+        />
       </td>
       <td>
-        <img width="400px" align="left" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&amp;hide=html,TSQL,CSS,SCSS&amp;layout=compact&amp;count_private=true&amp;langs_count=8&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" />
+        <img 
+          width="400px" 
+          align="left" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
+        />
       </td>        
     </tr>   
   </table>
@@ -56,21 +70,22 @@
 
 <hr>
 
+<!-- CONTACT -->
 <h3 align="center">📞 Contact Me:</h3>
 <p align="center">
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988698860" alt="WhatsApp" target="_blank">  
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5542988698860" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:arnaldorochafilho@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnaldorochafilho@gmail.com" />
+  <a href="mailto:arnaldorochafilho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" />
+  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/supernaldo/" alt="Facebook" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white&link" />
+  <a href="https://www.facebook.com/supernaldo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/arnaldorochafilho" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link" />
+  <a href="https://www.instagram.com/arnaldorochafilho" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
