@@ -44,7 +44,7 @@
   &nbsp;
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="40" />
   &nbsp;
-  <img src="[https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s)" width="30" />
+  <img src="https://www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/azuresqldatabase.png" width="30" />
 </p>
 
 <!-- GITHUB STATS -->
