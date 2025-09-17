@@ -1,9 +1,10 @@
 <!-- PORTFOLIO BADGE -->
-<a href="https://arnaldorocha.github.io/portfolio/" alt="Portfolio" target="_blank">
+<a href="https://arnaldorocha.github.io/portfolio/" target="_blank">
   <img 
-    src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=Portfolio&logoColor=white&link" 
-    width="75" 
+    src="https://img.shields.io/badge/-Portfolio-009?style=flat-square&logo=about-dot-me&logoColor=white" 
+    width="90" 
     align="right" 
+    alt="Portfolio"
   />
 </a>
 
@@ -22,55 +23,37 @@
   I also value a balance between personal growth, family, and faith, and I'm committed to growing professionally while sharing my experiences to inspire and help others.
 </p>
 
+---
+
 <h3 align="left">📚 What I'm Doing Now:</h3>
 <ul>
   <li>🎓 Currently pursuing a degree in <strong>Computer Engineering</strong>.</li>
   <li>🐍 Focusing intensely on mastering <strong>Python</strong> through projects, challenges, and practical applications.</li>
-  <li>🛠️ While working with Python, I'm also consistently using <strong>SQL</strong>, <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>Git</strong>, <strong>GitHub</strong>, and <strong>VS Code</strong>.</li>
+  <li>🛠️ Consistently using <strong>SQL</strong>, <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>Git</strong>, <strong>GitHub</strong>, and <strong>VS Code</strong>.</li>
   <li>🤖 Deeply interested in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Automation</strong>.</li>
   <li>🎮 In my free time, I enjoy playing games as a hobby.</li>
 </ul>
 
+---
+
 <!-- TOOLS & TECHNOLOGIES -->
 <h3 align="left">🔧 Tools and Technologies I'm Practicing:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   &nbsp;
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   &nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   &nbsp;
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript_logo-768x873.png" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   &nbsp;
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   &nbsp;
-  <img src="https://www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/azuresqldatabase.png" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL"/>
 </p>
 
-<!-- GITHUB STATS -->
-<h3 align="left">📊 Follow My Progress:</h3>
-<center>
-  <table>
-    <tr>
-      <td>
-        <img 
-          width="475px" 
-          align="left" 
-          src="https://github-readme-stats.vercel.app/api?username=arnaldorocha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
-        />
-      </td>
-      <td>
-        <img 
-          width="400px" 
-          align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldorocha&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
-        />
-      </td>        
-    </tr>   
-  </table>
-</center>
 
-<hr>
+---
 
 <!-- CONTACT -->
 <h3 align="center">📞 Contact Me:</h3>
@@ -85,9 +68,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/supernaldo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-006?style=flat-square&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/arnaldorochafilho" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
