@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arnaldorocha.github.io/portfolio/" target="_blank">
+  <a href="https://portfolio2-0-dn7l.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 
