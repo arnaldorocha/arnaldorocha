@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Focused on backend engineering, automation systems, APIs, and applied AI development.
+  Learning software engineering through practical projects, backend systems, and AI-assisted development workflows.
 </p>
 
 <p align="center">
@@ -30,32 +30,35 @@
 
 # About
 
-I'm a Computer Engineering student focused on backend engineering, system design, automation, and AI applications.
+I'm a Computer Engineering student focused on learning backend engineering, automation systems, APIs, and applied AI development.
 
-Most of my work is centered around understanding how systems operate internally, building practical software, and improving engineering fundamentals through consistent implementation.
+Most of my learning happens through building projects, deploying systems, debugging problems, and improving code through iteration.
 
-Current areas of interest:
+Right now, my strongest practical skills are:
 
-- Backend Engineering
-- APIs and Distributed Systems
-- Applied Artificial Intelligence
-- Automation Workflows
-- Databases and Infrastructure
-- Linux and Systems Programming
-- Machine Learning Fundamentals
-- Quantum Computing Fundamentals
+- Python
+- Supabase
+- Deployments
+- Git and GitHub workflows
+- Frontend development
+- HTML and CSS
+- JavaScript
+- API integration
+- AI-assisted development workflows
+
+I still have a lot to improve in areas like software architecture, security, testing, scalability, and computer science fundamentals, and this GitHub is part of documenting that learning process.
 
 ---
 
 # Current Focus
 
-- Building backend systems with Python and FastAPI
-- Improving software engineering and computer science fundamentals
-- Studying machine learning and AI engineering concepts
-- Developing operational and automation platforms
-- Strengthening knowledge in Linux, databases, networking, and architecture
-- Exploring low-level systems and performance concepts
-- Documenting projects and engineering decisions through practical implementation
+- Building practical backend systems with Python
+- Learning FastAPI and API design
+- Improving SQL and database knowledge
+- Understanding authentication and operational workflows
+- Studying machine learning and AI engineering fundamentals
+- Learning Linux, systems, and software engineering concepts
+- Improving through real-world implementation instead of only tutorials
 
 ---
 
@@ -63,38 +66,53 @@ Current areas of interest:
 
 ## Correggio Management System
 
-Authentication and operational management platform focused on internal workflows, access control, and organizational processes.
+Operational and authentication platform focused on internal organization and workflow management.
 
-### Core Areas
+### Project Overview
 
-- Authentication and authorization
-- Session and access management
-- Backend API architecture
-- Database organization
-- Operational workflow structure
-- Frontend/backend separation
-- Internal platform management
+This project started as an AI-assisted prototype built with Lovable and was later modified, debugged, and improved manually inside VSCode using AI-assisted workflows and practical iteration.
 
-### Technical Stack
+The main goal of the project was to learn how modern web systems are structured and maintained in practice.
+
+### Main Areas
+
+- Authentication
+- Access control
+- Operational workflows
+- Frontend/backend integration
+- Database management
+- API communication
+- Deployment and system organization
+
+### Stack
 
 - Python
 - FastAPI
+- Supabase
 - PostgreSQL
+- HTML
+- CSS
+- JavaScript
 - REST APIs
-- Authentication Flows
-- SQL
-- Docker
 
-### Engineering Focus
+### What I Practiced In This Project
 
-This project was built as a practical engineering exercise to improve:
+- debugging generated code;
+- modifying and extending existing systems;
+- authentication flow understanding;
+- backend structure;
+- database organization;
+- deployment workflows;
+- API integration;
+- practical problem solving.
 
-- backend architecture organization;
-- API design;
-- authentication systems;
-- database modeling;
-- operational workflow logic;
-- system structure and maintainability.
+### Current Limitations
+
+- No automated tests yet
+- Authentication can still be improved
+- Limited monitoring and observability
+- No advanced infrastructure setup
+- Project structure still evolving as I learn better engineering practices
 
 ### Project Link
 
@@ -102,56 +120,57 @@ This project was built as a practical engineering exercise to improve:
 
 ---
 
-# Tech Stack
+# Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
 </p>
 
-### Working With
+### Currently Learning
 
-`Python` • `FastAPI` • `PostgreSQL` • `REST APIs` • `Docker` • `Linux` • `SQL` • `Automation`
+`FastAPI` • `SQL` • `Backend Engineering` • `Machine Learning` • `Linux` • `APIs` • `Automation`
 
 ---
 
-# Engineering Goals
+# Learning Goals
 
-- Build reliable backend and operational systems
-- Improve software architecture and systems thinking
+- Improve backend engineering skills
+- Learn better software architecture practices
 - Strengthen computer science fundamentals
-- Develop practical AI engineering skills
-- Deepen knowledge in machine learning and infrastructure
-- Explore advanced computing areas such as quantum computing
+- Improve database and infrastructure knowledge
+- Build more reliable and maintainable systems
+- Develop stronger machine learning engineering foundations
 
 ---
 
-# Engineering Approach
+# Development Approach
 
-My focus is on long-term technical growth through practical implementation and strong engineering fundamentals.
+Right now, my focus is less about trying to look senior and more about building consistent technical experience through practical projects.
 
-I value:
+I'm interested in understanding:
 
-- clear system design;
-- maintainable backend architecture;
-- practical problem solving;
-- operational software;
-- continuous iteration and learning.
+- how backend systems work;
+- how APIs are structured;
+- how authentication and databases operate;
+- how real applications are deployed and maintained;
+- how Git workflows improve development organization;
+- and how AI-assisted software development workflows can be used productively.
 
 ---
 
@@ -175,6 +194,6 @@ I value:
 
 <p align="center">
   <sub>
-    Building engineering fundamentals through consistent project development and technical study.
+    Learning software engineering through practical implementation, iteration, and consistent study.
   </sub>
 </p>
