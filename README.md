@@ -1,17 +1,16 @@
-<!-- HEADER -->
 <h1 align="center">Arnaldo Rocha</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student • AI Systems Builder • Future ML Engineer</strong>
+  Computer Engineering Student • Backend Systems • Applied AI
 </p>
 
 <p align="center">
-  Building intelligent systems, automation infrastructure, and real-world AI applications.
+  Focused on backend engineering, automation systems, APIs, and applied AI development.
 </p>
 
 <p align="center">
   <a href="https://portfolio2-0-dn7l.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 
   <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" target="_blank">
@@ -29,50 +28,77 @@
 
 ---
 
-# Mission
+# About
 
-I’m focused on becoming a high-level engineer capable of building intelligent systems that solve real-world problems at scale.
+I'm a Computer Engineering student focused on backend engineering, system design, automation, and AI applications.
 
-My primary interests include:
+Most of my work is centered around understanding how systems operate internally, building practical software, and improving engineering fundamentals through consistent implementation.
 
-- Artificial Intelligence
-- Machine Learning
-- Autonomous Systems
-- Systems Engineering
-- AI Infrastructure
-- Automation
-- Computer Vision
-- Robotics Software
+Current areas of interest:
 
-I believe elite engineering is built through:
-- strong technical foundations;
-- consistent execution;
-- real-world systems;
-- long-term thinking;
-- relentless iteration.
+- Backend Engineering
+- APIs and Distributed Systems
+- Applied Artificial Intelligence
+- Automation Workflows
+- Databases and Infrastructure
+- Linux and Systems Programming
+- Machine Learning Fundamentals
+- Quantum Computing Fundamentals
 
 ---
 
 # Current Focus
 
-- 🎓 Computer Engineering @ Universidade Cruzeiro do Sul
-- 🧠 Studying AI engineering and machine learning fundamentals
-- 🐍 Building Python systems, automation tools, and backend infrastructure
-- ⚙️ Developing operational platforms and intelligent workflows
-- 📚 Strengthening mathematics, algorithms, and systems knowledge
-- 🚀 Shipping projects consistently and documenting the journey publicly
+- Building backend systems with Python and FastAPI
+- Improving software engineering and computer science fundamentals
+- Studying machine learning and AI engineering concepts
+- Developing operational and automation platforms
+- Strengthening knowledge in Linux, databases, networking, and architecture
+- Exploring low-level systems and performance concepts
+- Documenting projects and engineering decisions through practical implementation
 
 ---
 
-# Projects
+# Main Project
 
-| Project | Description | Stack |
-|---|---|---|
-| **Correggio Management System** | Internal educational management platform for workflows, operations, and institutional organization | Python · FastAPI · PostgreSQL |
-| **AI Ads Analyzer** | AI-powered analytics platform for Meta Ads performance and strategic insights | FastAPI · PostgreSQL · Groq API |
-| **Jarvis CLI** | Personal AI assistant evolving toward autonomous workflows and LLM orchestration | Python · CLI · APIs |
-| **Dispatch Automation** | WhatsApp automation infrastructure for operational logistics and client communication | Python · REST APIs |
-| **AI Workflow Systems** | Experimental intelligent agents and AI productivity systems | Python · AI APIs |
+## Correggio Management System
+
+Authentication and operational management platform focused on internal workflows, access control, and organizational processes.
+
+### Core Areas
+
+- Authentication and authorization
+- Session and access management
+- Backend API architecture
+- Database organization
+- Operational workflow structure
+- Frontend/backend separation
+- Internal platform management
+
+### Technical Stack
+
+- Python
+- FastAPI
+- PostgreSQL
+- REST APIs
+- Authentication Flows
+- SQL
+- Docker
+
+### Engineering Focus
+
+This project was built as a practical engineering exercise to improve:
+
+- backend architecture organization;
+- API design;
+- authentication systems;
+- database modeling;
+- operational workflow logic;
+- system structure and maintainability.
+
+### Project Link
+
+- https://siga-correggio.pages.dev/auth
 
 ---
 
@@ -98,27 +124,40 @@ I believe elite engineering is built through:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
 </p>
 
-### Also Working With
+### Working With
 
-`Machine Learning` • `REST APIs` • `SQL` • `Docker` • `Linux` • `Automation` • `GitHub` • `Data Engineering`
+`Python` • `FastAPI` • `PostgreSQL` • `REST APIs` • `Docker` • `Linux` • `SQL` • `Automation`
 
 ---
 
-# Engineering Philosophy
+# Engineering Goals
 
-I’m not interested in only consuming technology.
+- Build reliable backend and operational systems
+- Improve software architecture and systems thinking
+- Strengthen computer science fundamentals
+- Develop practical AI engineering skills
+- Deepen knowledge in machine learning and infrastructure
+- Explore advanced computing areas such as quantum computing
 
-I want to deeply understand systems, engineer solutions from first principles, and build intelligent technology that creates real-world impact.
+---
 
-The objective is long-term mastery.
+# Engineering Approach
+
+My focus is on long-term technical growth through practical implementation and strong engineering fundamentals.
+
+I value:
+
+- clear system design;
+- maintainable backend architecture;
+- practical problem solving;
+- operational software;
+- continuous iteration and learning.
 
 ---
 
 # GitHub Activity
 
 <p align="center">
-
-
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Arnaldorocha&theme=github-dark&hide_border=true"
     height="160"
@@ -136,6 +175,6 @@ The objective is long-term mastery.
 
 <p align="center">
   <sub>
-    Building the foundations for advanced AI systems, engineering infrastructure, and autonomous technology.
+    Building engineering fundamentals through consistent project development and technical study.
   </sub>
 </p>
