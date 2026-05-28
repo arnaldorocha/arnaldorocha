@@ -1,139 +1,80 @@
-<h1 align="center">Arnaldo Rocha</h1><p align="center">
-  Computer Engineering Student • Backend Development • Applied AI
-</p><p align="center">
-  Learning software engineering through practical projects, backend systems, and AI-assisted development workflows.
-</p><p align="center">
+<h1 align="center">Arnaldo Rocha</h1>
+
+<p align="center">
+  Backend Developer · Automation Engineer · Applied AI Instructor
+</p>
+
+<p align="center">
+  I build backend systems, automation workflows, and AI-integrated products for real clients and real use cases.
+</p>
+
+<p align="center">
   <a href="https://portfolio2-0-dn7l.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" target="_blank">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  <a href="mailto:arnaldorochafilho@gmail.com">
+  </a>&nbsp;
+  <a href="mailto:arnaldorochafilho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  <a href="https://github.com/Arnaldorocha" target="_blank">
+  </a>&nbsp;
+  <a href="https://github.com/Arnaldorocha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>---
-
-About
-
-I'm a Computer Engineering student focused on learning backend development, automation systems, APIs, and applied AI workflows.
-
-Most of my learning happens through building projects, deploying systems, debugging problems, and improving implementations through iteration and practical experimentation.
-
-Right now, the technologies and tools I use most are:
-
-- Python
-- TypeScript / TSX
-- React
-- JavaScript
-- HTML and CSS
-- Supabase
-- Git and GitHub
-- Deployments and hosting platforms
-- API integration
-- AI-assisted development workflows
-
-I still have a lot to improve in areas like software architecture, security, scalability, testing, and computer science fundamentals, and this GitHub is part of documenting that learning process.
+</p>
 
 ---
 
-Current Focus
+## About
 
-- Building practical backend and web systems
-- Learning FastAPI and API design
-- Improving SQL and database knowledge
-- Understanding authentication and operational workflows
-- Studying machine learning and applied AI concepts
-- Learning Linux, systems, and software engineering fundamentals
-- Improving through real-world implementation instead of only tutorials
+I'm a Computer Engineering student and backend developer based in Brazil, focused on building automation systems, APIs, and AI-integrated products.
+
+I work as a freelance developer under the brand **nexu.fell**, delivering automation and SaaS solutions for small businesses. I also teach AI, automation, Python, and Power BI at Instituto Correggio — which means I don't just use these tools, I explain how they work.
+
+My workflow is build-first: I learn by deploying real systems, integrating real APIs, and fixing real problems in production.
 
 ---
 
-Main Project
+## What I Build
 
-SIGAS — Academic Management System
+**Client Automation Systems**
+WhatsApp dispatch automation for logistics operations — multi-channel message routing, workflow triggers, and operational monitoring. Built with Python and N8N, targeting recurring-revenue contracts.
 
-Academic management platform developed for Instituto Correggio, focused on operational organization, user access control, student management, and academic workflow monitoring.
+**SaaS Products**
+ads-analyzer — a Meta Ads analytics SaaS integrating the Groq API for AI-powered campaign insights. Designed for small business owners who need actionable data without a marketing team.
 
-System Overview
+**Internal Tools & Management Platforms**
+SIGAS — a full-stack academic management system deployed in production for Instituto Correggio. Multi-role authentication, student and course management, attendance tracking, and operational dashboards.
 
-SIGAS is a multi-role management system where different users have different permissions and responsibilities inside the platform.
+---
 
-The system includes:
+## Main Project — SIGAS
 
-- authentication and access control;
-- academic workflow management;
-- student registration;
-- course registration;
-- attendance tracking;
-- dashboards and operational metrics;
-- unit-based organization structure;
-- academic progress monitoring.
+Academic management platform built for Instituto Correggio, currently running in production.
 
-User Roles
+**System Overview**
 
-The platform separates permissions and workflows between different roles, including:
+Multi-role platform with authentication and access control, student and course registration, attendance tracking, academic progress monitoring, and an operational dashboard with metrics and visual indicators.
 
-- administrators;
-- managers;
-- coordinators;
-- teachers;
-- operational users.
+**User Roles**
 
-Each role has access to different areas and operational responsibilities inside the system.
+Administrators · Managers · Coordinators · Teachers · Operational Users
 
-Main Features
+Each role has scoped access and distinct operational workflows.
 
-- Multi-role authentication system
-- Student registration and management
-- Course management
-- Attendance tracking system
-- Dashboard with metrics and visual indicators
-- Unit-based organization structure
-- Academic delay and status monitoring
-- Internal operational workflows
+**Technical Stack**
 
-Technical Stack
-
-- React
-- TypeScript / TSX
-- JavaScript
-- Python
-- FastAPI
-- Supabase
-- PostgreSQL
+- React · TypeScript · JavaScript
+- Python · FastAPI
+- Supabase · PostgreSQL
 - REST APIs
 - Cloudflare Hosting
 
-Development Approach
-
-The project started as an AI-assisted prototype and was progressively modified, debugged, reorganized, and improved through practical development workflows.
-
-A major part of the learning process involved:
-
-- understanding generated code;
-- debugging and fixing issues;
-- improving structure and organization;
-- integrating frontend and backend systems;
-- managing authentication flows;
-- working with databases and APIs;
-- deploying and maintaining the application.
-
-Current Limitations
-
-- No automated testing pipeline yet
-- Authentication and permission system can still be improved
-- Infrastructure is still optimized for small-scale usage
-- Monitoring and observability are still limited
-- Project structure continues evolving as engineering knowledge improves
-
-Project Link
-
-- https://siga-correggio.pages.dev/auth
+**Live:** [siga-correggio.pages.dev](https://siga-correggio.pages.dev/auth)
 
 ---
 
-Technologies
+## Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
@@ -157,54 +98,39 @@ Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-</p>Currently Learning
+</p>
 
-"FastAPI" • "SQL" • "Backend Development" • "Machine Learning" • "Linux" • "APIs" • "Automation"
-
----
-
-Learning Goals
-
-- Improve backend engineering skills
-- Learn better software architecture practices
-- Strengthen computer science fundamentals
-- Improve database and infrastructure knowledge
-- Build more reliable and maintainable systems
-- Develop stronger machine learning engineering foundations
+`Python` `FastAPI` `TypeScript` `React` `PostgreSQL` `Supabase` `N8N` `Docker` `REST APIs` `Git` `Linux`
 
 ---
 
-Development Approach
+## Current Focus
 
-My current focus is on building consistent technical experience through practical projects and continuous iteration.
-
-I'm interested in understanding:
-
-- how backend systems work;
-- how APIs are structured;
-- how authentication and databases operate;
-- how applications are deployed and maintained;
-- how Git workflows improve development organization;
-- and how AI-assisted software development workflows can be used productively.
+- Delivering WhatsApp automation system for logistics client (Aug 2025 deadline)
+- Shipping ads-analyzer MVP with Groq API integration
+- Deepening backend architecture: auth systems, scalability, observability
+- Strengthening CS fundamentals: algorithms, Linux internals, systems programming
 
 ---
 
-GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Arnaldorocha&theme=github-dark&hide_border=true"
     height="160"
   />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Arnaldorocha&theme=github-compact&hide_border=true&area=true"
     width="95%"
   />
-</p>---
+</p>
+
+---
 
 <p align="center">
-  <sub>
-    Learning software engineering through practical implementation, iteration, and consistent study.
-  </sub>
+  <sub>Building real systems. Shipping real products. Figuring out the rest along the way.</sub>
 </p>
