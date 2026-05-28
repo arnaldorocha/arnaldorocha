@@ -1,11 +1,11 @@
 <h1 align="center">Arnaldo Rocha</h1>
 
 <p align="center">
-  Backend Developer · Automation Engineer · Applied AI Instructor
+  Backend Developer · Automation Engineer · Applied AI
 </p>
 
 <p align="center">
-  I build backend systems, automation workflows, and AI-integrated products for real clients and real use cases.
+  I build operational systems, automation workflows, and AI-integrated products for real businesses and real clients.
 </p>
 
 <p align="center">
@@ -27,50 +27,69 @@
 
 ## About
 
-I'm a Computer Engineering student and backend developer based in Brazil, focused on building automation systems, APIs, and AI-integrated products.
+I'm a Computer Engineering student and backend developer based in Brazil, building operational systems, automation workflows, and AI-integrated products for small businesses and real clients.
 
-I work as a freelance developer under the brand **nexu.fell**, delivering automation and SaaS solutions for small businesses. I also teach AI, automation, Python, and Power BI at Instituto Correggio — which means I don't just use these tools, I explain how they work.
+I work as a freelance developer under the brand **nexu.fell**, delivering solutions focused on process automation, operational management, API integrations, and intelligent dashboards. I also teach AI, automation, Python, and Power BI at Instituto Correggio — which means I apply these tools in practice and explain how they work to real students.
 
-My workflow is build-first: I learn by deploying real systems, integrating real APIs, and fixing real problems in production.
+My approach is build-first: I learn by deploying real systems, integrating real APIs, and solving real operational problems.
 
 ---
 
 ## What I Build
 
-**Client Automation Systems**
-WhatsApp dispatch automation for logistics operations — multi-channel message routing, workflow triggers, and operational monitoring. Built with Python and N8N, targeting recurring-revenue contracts.
-
-**SaaS Products**
-ads-analyzer — a Meta Ads analytics SaaS integrating the Groq API for AI-powered campaign insights. Designed for small business owners who need actionable data without a marketing team.
-
-**Internal Tools & Management Platforms**
-SIGAS — a full-stack academic management system deployed in production for Instituto Correggio. Multi-role authentication, student and course management, attendance tracking, and operational dashboards.
+| Area | Focus |
+|---|---|
+| Automation Systems | Process automation, WhatsApp workflows, trigger-based operations |
+| Operational Software | Management systems, dashboards, multi-role platforms |
+| AI Integrations | Campaign analysis, conversational automation, AI-assisted insights |
+| SaaS Products | Meta Ads analytics, recurring-revenue tools for small businesses |
+| API Integrations | REST APIs, Meta Business, Groq, WhatsApp, external services |
 
 ---
 
-## Main Project — SIGAS
+## Projects
 
-Academic management platform built for Instituto Correggio, currently running in production.
+### SIGA — Instituto Correggio ✅ Production
+Academic management platform for a vocational training institution. Multi-unit, multi-role architecture with authentication, student and course management, attendance tracking, academic progress monitoring, and operational dashboards.
 
-**System Overview**
-
-Multi-role platform with authentication and access control, student and course registration, attendance tracking, academic progress monitoring, and an operational dashboard with metrics and visual indicators.
-
-**User Roles**
-
-Administrators · Managers · Coordinators · Teachers · Operational Users
-
-Each role has scoped access and distinct operational workflows.
-
-**Technical Stack**
-
-- React · TypeScript · JavaScript
-- Python · FastAPI
-- Supabase · PostgreSQL
-- REST APIs
-- Cloudflare Hosting
-
+**Stack:** React · TypeScript · FastAPI · Python · Supabase · PostgreSQL · Cloudflare  
 **Live:** [siga-correggio.pages.dev](https://siga-correggio.pages.dev/auth)
+
+---
+
+### AdsPulse 🚧 In Development
+Meta Business dashboard with campaign analytics, geolocation data, and AI-generated insights. Built as a SaaS product in partnership with **harvestpubli**, targeting small business owners who need actionable marketing data without a dedicated team.
+
+**Stack:** Python · Groq API · Meta Business API · Data Visualization
+
+---
+
+### Conversational Ride Automation — Client: Evandro 🚧 In Development
+Automated conversational system for ride operations with automatic fare calculation. Handles booking flows, pricing logic, and operational communication end-to-end.
+
+**Stack:** Python · WhatsApp API · N8N · Automation workflows
+
+---
+
+### WhatsApp Dispatch System — Instituto Correggio 🚧 In Development
+Automated WhatsApp messaging system for institutional communication workflows at Instituto Correggio.
+
+**Stack:** Python · N8N · WhatsApp API
+
+---
+
+### Salon Management System 🚧 In Development
+Operational management system for beauty salon workflows — scheduling, client management, and operational control.
+
+---
+
+### Financial System with Custom Goals 🚧 In Development
+Personal and operational financial management system with configurable percentage-based targets and progress tracking.
+
+---
+
+### Jarvis — Personal AI Assistant Roadmap 🗂️ Public Roadmap
+Public roadmap documenting how to build a personal AI assistant using automation, APIs, AI models, and integrated systems. Designed as an open engineering reference for developers building similar workflows.
 
 ---
 
@@ -85,31 +104,26 @@ Each role has scoped access and distinct operational workflows.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
 </p>
 
-`Python` `FastAPI` `TypeScript` `React` `PostgreSQL` `Supabase` `N8N` `Docker` `REST APIs` `Git` `Linux`
+`Python` `FastAPI` `TypeScript` `React` `PostgreSQL` `Supabase` `N8N` `Docker` `REST APIs` `Meta Business API` `Groq API` `Git` `Linux`
 
 ---
 
 ## Current Focus
 
-- Delivering WhatsApp automation system for logistics client (Aug 2025 deadline)
-- Shipping ads-analyzer MVP with Groq API integration
+- Delivering conversational ride automation system for client Evandro
+- Shipping AdsPulse MVP with Groq API and Meta Business integration
+- Expanding WhatsApp automation workflows for Instituto Correggio
 - Deepening backend architecture: auth systems, scalability, observability
-- Strengthening CS fundamentals: algorithms, Linux internals, systems programming
+- Building Jarvis roadmap as a public engineering reference
 
 ---
 
