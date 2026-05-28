@@ -1,129 +1,146 @@
-<h1 align="center">Arnaldo Rocha</h1>
-
-<p align="center">
-  Computer Engineering Student • Backend Systems • Applied AI
-</p>
-
-<p align="center">
+<h1 align="center">Arnaldo Rocha</h1><p align="center">
+  Computer Engineering Student • Backend Development • Applied AI
+</p><p align="center">
   Learning software engineering through practical projects, backend systems, and AI-assisted development workflows.
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://portfolio2-0-dn7l.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" target="_blank">
+  </a>  <a href="https://www.linkedin.com/in/arnaldo-rocha-filho-52ba03163/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:arnaldorochafilho@gmail.com">
+  </a>  <a href="mailto:arnaldorochafilho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Arnaldorocha" target="_blank">
+  </a>  <a href="https://github.com/Arnaldorocha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p>---
 
----
+About
 
-# About
+I'm a Computer Engineering student focused on learning backend development, automation systems, APIs, and applied AI workflows.
 
-I'm a Computer Engineering student focused on learning backend engineering, automation systems, APIs, and applied AI development.
+Most of my learning happens through building projects, deploying systems, debugging problems, and improving implementations through iteration and practical experimentation.
 
-Most of my learning happens through building projects, deploying systems, debugging problems, and improving code through iteration.
-
-Right now, my strongest practical skills are:
+Right now, the technologies and tools I use most are:
 
 - Python
-- Supabase
-- Deployments
-- Git and GitHub workflows
-- Frontend development
-- HTML and CSS
+- TypeScript / TSX
+- React
 - JavaScript
+- HTML and CSS
+- Supabase
+- Git and GitHub
+- Deployments and hosting platforms
 - API integration
 - AI-assisted development workflows
 
-I still have a lot to improve in areas like software architecture, security, testing, scalability, and computer science fundamentals, and this GitHub is part of documenting that learning process.
+I still have a lot to improve in areas like software architecture, security, scalability, testing, and computer science fundamentals, and this GitHub is part of documenting that learning process.
 
 ---
 
-# Current Focus
+Current Focus
 
-- Building practical backend systems with Python
+- Building practical backend and web systems
 - Learning FastAPI and API design
 - Improving SQL and database knowledge
 - Understanding authentication and operational workflows
-- Studying machine learning and AI engineering fundamentals
-- Learning Linux, systems, and software engineering concepts
+- Studying machine learning and applied AI concepts
+- Learning Linux, systems, and software engineering fundamentals
 - Improving through real-world implementation instead of only tutorials
 
 ---
 
-# Main Project
+Main Project
 
-## Correggio Management System
+SIGAS — Academic Management System
 
-Operational and authentication platform focused on internal organization and workflow management.
+Academic management platform developed for Instituto Correggio, focused on operational organization, user access control, student management, and academic workflow monitoring.
 
-### Project Overview
+System Overview
 
-This project started as an AI-assisted prototype built with Lovable and was later modified, debugged, and improved manually inside VSCode using AI-assisted workflows and practical iteration.
+SIGAS is a multi-role management system where different users have different permissions and responsibilities inside the platform.
 
-The main goal of the project was to learn how modern web systems are structured and maintained in practice.
+The system includes:
 
-### Main Areas
+- authentication and access control;
+- academic workflow management;
+- student registration;
+- course registration;
+- attendance tracking;
+- dashboards and operational metrics;
+- unit-based organization structure;
+- academic progress monitoring.
 
-- Authentication
-- Access control
-- Operational workflows
-- Frontend/backend integration
-- Database management
-- API communication
-- Deployment and system organization
+User Roles
 
-### Stack
+The platform separates permissions and workflows between different roles, including:
 
+- administrators;
+- managers;
+- coordinators;
+- teachers;
+- operational users.
+
+Each role has access to different areas and operational responsibilities inside the system.
+
+Main Features
+
+- Multi-role authentication system
+- Student registration and management
+- Course management
+- Attendance tracking system
+- Dashboard with metrics and visual indicators
+- Unit-based organization structure
+- Academic delay and status monitoring
+- Internal operational workflows
+
+Technical Stack
+
+- React
+- TypeScript / TSX
+- JavaScript
 - Python
 - FastAPI
 - Supabase
 - PostgreSQL
-- HTML
-- CSS
-- JavaScript
 - REST APIs
+- Cloudflare Hosting
 
-### What I Practiced In This Project
+Development Approach
 
-- debugging generated code;
-- modifying and extending existing systems;
-- authentication flow understanding;
-- backend structure;
-- database organization;
-- deployment workflows;
-- API integration;
-- practical problem solving.
+The project started as an AI-assisted prototype and was progressively modified, debugged, reorganized, and improved through practical development workflows.
 
-### Current Limitations
+A major part of the learning process involved:
 
-- No automated tests yet
-- Authentication can still be improved
-- Limited monitoring and observability
-- No advanced infrastructure setup
-- Project structure still evolving as I learn better engineering practices
+- understanding generated code;
+- debugging and fixing issues;
+- improving structure and organization;
+- integrating frontend and backend systems;
+- managing authentication flows;
+- working with databases and APIs;
+- deploying and maintaining the application.
 
-### Project Link
+Current Limitations
+
+- No automated testing pipeline yet
+- Authentication and permission system can still be improved
+- Infrastructure is still optimized for small-scale usage
+- Monitoring and observability are still limited
+- Project structure continues evolving as engineering knowledge improves
+
+Project Link
 
 - https://siga-correggio.pages.dev/auth
 
 ---
 
-# Technologies
+Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
   &nbsp;
@@ -140,15 +157,13 @@ The main goal of the project was to learn how modern web systems are structured 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-</p>
+</p>Currently Learning
 
-### Currently Learning
-
-`FastAPI` • `SQL` • `Backend Engineering` • `Machine Learning` • `Linux` • `APIs` • `Automation`
+"FastAPI" • "SQL" • "Backend Development" • "Machine Learning" • "Linux" • "APIs" • "Automation"
 
 ---
 
-# Learning Goals
+Learning Goals
 
 - Improve backend engineering skills
 - Learn better software architecture practices
@@ -159,38 +174,34 @@ The main goal of the project was to learn how modern web systems are structured 
 
 ---
 
-# Development Approach
+Development Approach
 
-Right now, my focus is less about trying to look senior and more about building consistent technical experience through practical projects.
+My current focus is on building consistent technical experience through practical projects and continuous iteration.
 
 I'm interested in understanding:
 
 - how backend systems work;
 - how APIs are structured;
 - how authentication and databases operate;
-- how real applications are deployed and maintained;
+- how applications are deployed and maintained;
 - how Git workflows improve development organization;
 - and how AI-assisted software development workflows can be used productively.
 
 ---
 
-# GitHub Activity
+GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Arnaldorocha&theme=github-dark&hide_border=true"
     height="160"
   />
-</p>
-
-<p align="center">
+</p><p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Arnaldorocha&theme=github-compact&hide_border=true&area=true"
     width="95%"
   />
-</p>
-
----
+</p>---
 
 <p align="center">
   <sub>
