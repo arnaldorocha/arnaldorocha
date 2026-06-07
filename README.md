@@ -88,7 +88,7 @@ Personal and operational financial management system with configurable percentag
 
 ---
 
-### Jarvis — Personal AI Assistant Roadmap 🗂️ Public Roadmap
+### Zac — Personal AI Assistant Roadmap 🗂️ Public Roadmap
 Public roadmap documenting how to build a personal AI assistant using automation, APIs, AI models, and integrated systems. Designed as an open engineering reference for developers building similar workflows.
 
 ---
